@@ -1,0 +1,5 @@
+outs:
+- md5: 4e620be9993b75c48baec9bf3c5b5bf2
+  size: 47782
+  hash: md5
+  path: bbc_articles_cleaned.json
