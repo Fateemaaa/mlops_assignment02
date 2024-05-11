@@ -84,4 +84,4 @@ how does it works:
 - Trigger the `mlops_etl_dag` manually via the Airflow UI or let it run based on its schedule.
 
 ## Contact
-- For questions or contributions, contact [your_email@example.com].
+- For questions or contributions, contact i202658@nu.edu.pk
